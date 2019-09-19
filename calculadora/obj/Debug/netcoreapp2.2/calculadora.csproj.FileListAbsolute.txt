@@ -1,0 +1,22 @@
+C:\Users\37258681825\Documents\projetos\calculadora\obj\Debug\netcoreapp2.2\calculadora.csprojAssemblyReference.cache
+C:\Users\37258681825\Documents\projetos\calculadora\obj\Debug\netcoreapp2.2\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\37258681825\Documents\projetos\calculadora\obj\Debug\netcoreapp2.2\calculadora.AssemblyInfoInputs.cache
+C:\Users\37258681825\Documents\projetos\calculadora\obj\Debug\netcoreapp2.2\calculadora.AssemblyInfo.cs
+C:\Users\37258681825\Documents\projetos\calculadora\bin\Debug\netcoreapp2.2\calculadora.deps.json
+C:\Users\37258681825\Documents\projetos\calculadora\bin\Debug\netcoreapp2.2\calculadora.runtimeconfig.json
+C:\Users\37258681825\Documents\projetos\calculadora\bin\Debug\netcoreapp2.2\calculadora.runtimeconfig.dev.json
+C:\Users\37258681825\Documents\projetos\calculadora\bin\Debug\netcoreapp2.2\calculadora.dll
+C:\Users\37258681825\Documents\projetos\calculadora\bin\Debug\netcoreapp2.2\calculadora.pdb
+C:\Users\37258681825\Documents\projetos\calculadora\obj\Debug\netcoreapp2.2\calculadora.dll
+C:\Users\37258681825\Documents\projetos\calculadora\obj\Debug\netcoreapp2.2\calculadora.pdb
+C:\Users\37258681825\Documents\exercicios visual code\calculadora\bin\Debug\netcoreapp2.2\calculadora.deps.json
+C:\Users\37258681825\Documents\exercicios visual code\calculadora\bin\Debug\netcoreapp2.2\calculadora.runtimeconfig.json
+C:\Users\37258681825\Documents\exercicios visual code\calculadora\bin\Debug\netcoreapp2.2\calculadora.runtimeconfig.dev.json
+C:\Users\37258681825\Documents\exercicios visual code\calculadora\bin\Debug\netcoreapp2.2\calculadora.dll
+C:\Users\37258681825\Documents\exercicios visual code\calculadora\bin\Debug\netcoreapp2.2\calculadora.pdb
+C:\Users\37258681825\Documents\exercicios visual code\calculadora\obj\Debug\netcoreapp2.2\calculadora.csprojAssemblyReference.cache
+C:\Users\37258681825\Documents\exercicios visual code\calculadora\obj\Debug\netcoreapp2.2\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\37258681825\Documents\exercicios visual code\calculadora\obj\Debug\netcoreapp2.2\calculadora.AssemblyInfoInputs.cache
+C:\Users\37258681825\Documents\exercicios visual code\calculadora\obj\Debug\netcoreapp2.2\calculadora.AssemblyInfo.cs
+C:\Users\37258681825\Documents\exercicios visual code\calculadora\obj\Debug\netcoreapp2.2\calculadora.dll
+C:\Users\37258681825\Documents\exercicios visual code\calculadora\obj\Debug\netcoreapp2.2\calculadora.pdb
