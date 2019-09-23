@@ -1,0 +1,11 @@
+C:\Users\37258681825\Documents\exercicios visual code\user\obj\Debug\netcoreapp2.2\user.csprojAssemblyReference.cache
+C:\Users\37258681825\Documents\exercicios visual code\user\obj\Debug\netcoreapp2.2\user.csproj.CoreCompileInputs.cache
+C:\Users\37258681825\Documents\exercicios visual code\user\obj\Debug\netcoreapp2.2\user.AssemblyInfoInputs.cache
+C:\Users\37258681825\Documents\exercicios visual code\user\obj\Debug\netcoreapp2.2\user.AssemblyInfo.cs
+C:\Users\37258681825\Documents\exercicios visual code\user\bin\Debug\netcoreapp2.2\user.deps.json
+C:\Users\37258681825\Documents\exercicios visual code\user\bin\Debug\netcoreapp2.2\user.runtimeconfig.json
+C:\Users\37258681825\Documents\exercicios visual code\user\bin\Debug\netcoreapp2.2\user.runtimeconfig.dev.json
+C:\Users\37258681825\Documents\exercicios visual code\user\bin\Debug\netcoreapp2.2\user.dll
+C:\Users\37258681825\Documents\exercicios visual code\user\bin\Debug\netcoreapp2.2\user.pdb
+C:\Users\37258681825\Documents\exercicios visual code\user\obj\Debug\netcoreapp2.2\user.dll
+C:\Users\37258681825\Documents\exercicios visual code\user\obj\Debug\netcoreapp2.2\user.pdb
