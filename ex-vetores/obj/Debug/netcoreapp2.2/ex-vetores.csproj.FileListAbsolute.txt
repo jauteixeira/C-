@@ -1,0 +1,11 @@
+C:\Users\37258681825\Documents\exercicios visual code\ex-vetores\bin\Debug\netcoreapp2.2\ex-vetores.deps.json
+C:\Users\37258681825\Documents\exercicios visual code\ex-vetores\bin\Debug\netcoreapp2.2\ex-vetores.runtimeconfig.json
+C:\Users\37258681825\Documents\exercicios visual code\ex-vetores\bin\Debug\netcoreapp2.2\ex-vetores.runtimeconfig.dev.json
+C:\Users\37258681825\Documents\exercicios visual code\ex-vetores\bin\Debug\netcoreapp2.2\ex-vetores.dll
+C:\Users\37258681825\Documents\exercicios visual code\ex-vetores\bin\Debug\netcoreapp2.2\ex-vetores.pdb
+C:\Users\37258681825\Documents\exercicios visual code\ex-vetores\obj\Debug\netcoreapp2.2\ex-vetores.csprojAssemblyReference.cache
+C:\Users\37258681825\Documents\exercicios visual code\ex-vetores\obj\Debug\netcoreapp2.2\ex-vetores.csproj.CoreCompileInputs.cache
+C:\Users\37258681825\Documents\exercicios visual code\ex-vetores\obj\Debug\netcoreapp2.2\ex-vetores.AssemblyInfoInputs.cache
+C:\Users\37258681825\Documents\exercicios visual code\ex-vetores\obj\Debug\netcoreapp2.2\ex-vetores.AssemblyInfo.cs
+C:\Users\37258681825\Documents\exercicios visual code\ex-vetores\obj\Debug\netcoreapp2.2\ex-vetores.dll
+C:\Users\37258681825\Documents\exercicios visual code\ex-vetores\obj\Debug\netcoreapp2.2\ex-vetores.pdb
