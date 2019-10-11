@@ -1,17 +1,42 @@
-namespace ByteBank.Models
+namespace ByteBank
 {
     public class ContaCorrente
     {
-        public string titular {get;set;}
-        public int agencia {get;set;}
-        public int numeroc {get;set;}
-        public double saldo {get;set;}
+        public Cliente Titular {get;set;}
+        public string Agencia {get;set;}
+        public int Numero {get;set;}
+        private double _saldo;
+        public double Saldo
+        {
+            get {return _saldo;}
+        }
 
-        public ContaCorrente (int agencia, int numero, string titular){
-            this.agencia = agencia;
-            this.numeroc = numero;
-            this.titular = titular;
-            this.saldo = 0.0;
+        public ContaCorrente(string Agencia,int Numero,Cliente Titular){
+            this.Agencia = Agencia;
+            this.Numero = Numero;
+            this.Titular = Titular;
+            this._saldo = 0.0;
+        }
+
+        public double Deposito(double valor){
+            this._saldo += valor;
+            return this._saldo;
+        }
+        public bool Saque(double valor){
+            if(valor <= this._saldo){
+                this._saldo -= valor;
+                return true;
+            } else{
+                return false;
+            }
+        }
+        public bool Transferencia(ContaCorrente destino, double valor){
+            if (this.Saque(valor)){
+                destino.Deposito(valor);
+                return true;
+            } else {
+                return false;
+            }
         }
     }
 }
