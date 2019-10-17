@@ -18,6 +18,7 @@ namespace ByteBank
             Cliente cliente1 = new Cliente(nome,cpf,email);
 
             bool TrocouSenha = false;
+            
             do{
                 Console.Write("Digite a Senha: ");
                 string senha = Console.ReadLine();
@@ -25,8 +26,9 @@ namespace ByteBank
                 if (!TrocouSenha)
                 {
                     Console.WriteLine("Senha nao atende aos requisitos");
-                } else 
+                } 
                 
+                else
                 {
                     Console.WriteLine("Senha Trocada com sucesso");
                 }
@@ -43,12 +45,16 @@ namespace ByteBank
 
             bool saldoValido = false;
             double saldo;
+            
             do{
                 Console.Write("Digite o Saldo: ");
                 saldo = double.Parse(Console.ReadLine());
                 if (saldo >= 0){
                     saldoValido = true;
-                } else {
+                } 
+                
+                else 
+                {
                     Console.WriteLine("O saldo não pode ser negativo");
                 }
             }while(!saldoValido);
@@ -73,6 +79,7 @@ namespace ByteBank
             Console.WriteLine($"Saldo: {contaCorrente.Saldo}");
             Console.Write("Qual o valor do Saque? ");
             valor = double.Parse(Console.ReadLine());
+            
             if(contaCorrente.Saque(valor))
             {
                 Console.WriteLine("Saque realizado com sucesso. Retire as notas");
@@ -98,8 +105,9 @@ namespace ByteBank
             if (contaCorrente.Transferencia(contaCorrente2,valor))
             {
                 Console.WriteLine("Tranferencia efetuada com sucesso.");
-            } else 
+            } 
             
+            else
             {
                 Console.WriteLine("Operação não pode ser realizada.");
             }

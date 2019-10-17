@@ -5,26 +5,22 @@ namespace ByteBank
         public Cliente Titular {get;set;}
         public string Agencia {get;set;}
         public int Numero {get;set;}
-        private double _saldo;
-        public double Saldo
-        {
-            get {return _saldo;}
-        }
+        public double Saldo {get;set;}
 
         public ContaCorrente(string Agencia,int Numero,Cliente Titular){
             this.Agencia = Agencia;
             this.Numero = Numero;
             this.Titular = Titular;
-            this._saldo = 0.0;
+            this.Saldo = 0.0;
         }
 
         public double Deposito(double valor){
-            this._saldo += valor;
-            return this._saldo;
+            this.Saldo += valor;
+            return this.Saldo;
         }
         public bool Saque(double valor){
-            if(valor <= this._saldo){
-                this._saldo -= valor;
+            if(valor <= this.Saldo){
+                this.Saldo -= valor;
                 return true;
             } else{
                 return false;

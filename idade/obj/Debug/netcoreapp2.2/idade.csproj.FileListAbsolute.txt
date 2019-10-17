@@ -9,3 +9,14 @@ C:\Users\37258681825\Documents\projetos\idade\bin\Debug\netcoreapp2.2\idade.dll
 C:\Users\37258681825\Documents\projetos\idade\bin\Debug\netcoreapp2.2\idade.pdb
 C:\Users\37258681825\Documents\projetos\idade\obj\Debug\netcoreapp2.2\idade.dll
 C:\Users\37258681825\Documents\projetos\idade\obj\Debug\netcoreapp2.2\idade.pdb
+C:\Users\37258681825\Documents\C-\idade\bin\Debug\netcoreapp2.2\idade.deps.json
+C:\Users\37258681825\Documents\C-\idade\bin\Debug\netcoreapp2.2\idade.runtimeconfig.json
+C:\Users\37258681825\Documents\C-\idade\bin\Debug\netcoreapp2.2\idade.runtimeconfig.dev.json
+C:\Users\37258681825\Documents\C-\idade\bin\Debug\netcoreapp2.2\idade.dll
+C:\Users\37258681825\Documents\C-\idade\bin\Debug\netcoreapp2.2\idade.pdb
+C:\Users\37258681825\Documents\C-\idade\obj\Debug\netcoreapp2.2\idade.csprojAssemblyReference.cache
+C:\Users\37258681825\Documents\C-\idade\obj\Debug\netcoreapp2.2\idade.csproj.CoreCompileInputs.cache
+C:\Users\37258681825\Documents\C-\idade\obj\Debug\netcoreapp2.2\idade.AssemblyInfoInputs.cache
+C:\Users\37258681825\Documents\C-\idade\obj\Debug\netcoreapp2.2\idade.AssemblyInfo.cs
+C:\Users\37258681825\Documents\C-\idade\obj\Debug\netcoreapp2.2\idade.dll
+C:\Users\37258681825\Documents\C-\idade\obj\Debug\netcoreapp2.2\idade.pdb
