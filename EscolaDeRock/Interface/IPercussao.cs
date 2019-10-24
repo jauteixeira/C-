@@ -1,6 +1,6 @@
 namespace EscolaDeRock.Interface
 {
-    public interface IPercurssao
+    public interface IPercussao
 
     {
         bool ManterRitmo();

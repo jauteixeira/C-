@@ -3,7 +3,7 @@ using EscolaDeRock.Interface;
 
 namespace EscolaDeRock.Models
 {
-    public class Tambores : instrumentoMusical, IPercurssao
+    public class Tambores : instrumentoMusical, IPercussao
     {
         public bool ManterRitmo()
         {

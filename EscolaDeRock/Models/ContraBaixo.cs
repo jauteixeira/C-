@@ -4,7 +4,7 @@ using EscolaDeRock.Interface;
 
 namespace EscolaDeRock.Models
 {
-    public class ContraBaixo : instrumentoMusical, IHarmonia, IPercurssao
+    public class ContraBaixo : instrumentoMusical, IHarmonia, IPercussao
     {
         public bool ManterRitmo()
         {
