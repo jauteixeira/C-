@@ -1,0 +1,11 @@
+C:\Users\37258681825\Documents\C-\Desafios\trianguloinverso\bin\Debug\netcoreapp2.2\trianguloinverso.deps.json
+C:\Users\37258681825\Documents\C-\Desafios\trianguloinverso\bin\Debug\netcoreapp2.2\trianguloinverso.runtimeconfig.json
+C:\Users\37258681825\Documents\C-\Desafios\trianguloinverso\bin\Debug\netcoreapp2.2\trianguloinverso.runtimeconfig.dev.json
+C:\Users\37258681825\Documents\C-\Desafios\trianguloinverso\bin\Debug\netcoreapp2.2\trianguloinverso.dll
+C:\Users\37258681825\Documents\C-\Desafios\trianguloinverso\bin\Debug\netcoreapp2.2\trianguloinverso.pdb
+C:\Users\37258681825\Documents\C-\Desafios\trianguloinverso\obj\Debug\netcoreapp2.2\trianguloinverso.csprojAssemblyReference.cache
+C:\Users\37258681825\Documents\C-\Desafios\trianguloinverso\obj\Debug\netcoreapp2.2\trianguloinverso.csproj.CoreCompileInputs.cache
+C:\Users\37258681825\Documents\C-\Desafios\trianguloinverso\obj\Debug\netcoreapp2.2\trianguloinverso.AssemblyInfoInputs.cache
+C:\Users\37258681825\Documents\C-\Desafios\trianguloinverso\obj\Debug\netcoreapp2.2\trianguloinverso.AssemblyInfo.cs
+C:\Users\37258681825\Documents\C-\Desafios\trianguloinverso\obj\Debug\netcoreapp2.2\trianguloinverso.dll
+C:\Users\37258681825\Documents\C-\Desafios\trianguloinverso\obj\Debug\netcoreapp2.2\trianguloinverso.pdb

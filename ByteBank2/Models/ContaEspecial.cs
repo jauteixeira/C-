@@ -1,39 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
 namespace ByteBank2.Models
 {
     public class ContaEspecial : ContaBancaria
     {
-
         public double Limite;
 
-        public ContaEspecial (int Agencia, int NumeroConta, string Titular): base(Agencia, NumeroConta, Titular)
+        public ContaEspecial(int Agencia, int NumeroConta, string Titular) : base(Agencia, NumeroConta, Titular)
         {
             Limite = 0.0;
         }
 
-        public override bool Saque (double valor)
+        public bool SetLimite(double Valor)
         {
-            if (valor >= 0)
+            if(Valor >= 0)
             {
-                if (valor <= base.Saldo = Limite)
-                {
-                    Saldo = valor;
-                    return true;
-                }
-                            
-                else
-                {
-                    return false;
-                }
+                Limite = Valor;
+                return true;
             }
             return false;
         }
 
-        public bool setLimite (double valor)
+        public override bool Saque(double Valor)
         {
-            if (valor >=0)
+            if(Valor >= 0)
             {
-                Limite = valor;
-                return true;
+                if(Valor <= Saldo + Limite)
+                {
+                    Saldo -= Valor;
+                    return true;
+                }
             }
             return false;
         }

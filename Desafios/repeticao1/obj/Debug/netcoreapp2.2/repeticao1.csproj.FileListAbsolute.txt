@@ -1,0 +1,11 @@
+C:\Users\37258681825\Documents\C-\Desafios\repeticao1\bin\Debug\netcoreapp2.2\repeticao1.deps.json
+C:\Users\37258681825\Documents\C-\Desafios\repeticao1\bin\Debug\netcoreapp2.2\repeticao1.runtimeconfig.json
+C:\Users\37258681825\Documents\C-\Desafios\repeticao1\bin\Debug\netcoreapp2.2\repeticao1.runtimeconfig.dev.json
+C:\Users\37258681825\Documents\C-\Desafios\repeticao1\bin\Debug\netcoreapp2.2\repeticao1.dll
+C:\Users\37258681825\Documents\C-\Desafios\repeticao1\bin\Debug\netcoreapp2.2\repeticao1.pdb
+C:\Users\37258681825\Documents\C-\Desafios\repeticao1\obj\Debug\netcoreapp2.2\repeticao1.csprojAssemblyReference.cache
+C:\Users\37258681825\Documents\C-\Desafios\repeticao1\obj\Debug\netcoreapp2.2\repeticao1.csproj.CoreCompileInputs.cache
+C:\Users\37258681825\Documents\C-\Desafios\repeticao1\obj\Debug\netcoreapp2.2\repeticao1.AssemblyInfoInputs.cache
+C:\Users\37258681825\Documents\C-\Desafios\repeticao1\obj\Debug\netcoreapp2.2\repeticao1.AssemblyInfo.cs
+C:\Users\37258681825\Documents\C-\Desafios\repeticao1\obj\Debug\netcoreapp2.2\repeticao1.dll
+C:\Users\37258681825\Documents\C-\Desafios\repeticao1\obj\Debug\netcoreapp2.2\repeticao1.pdb

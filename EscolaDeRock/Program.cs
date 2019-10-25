@@ -1,6 +1,10 @@
-﻿using System;
+﻿/**
+ * Existe um erro na adição dos instrumentos musicais que pode levar a um loop infinito.
+ */
+
+using System;
 using System.Collections.Generic;
-using EscolaDeRock.Interface;
+using EscolaDeRock.Interfaces;
 using EscolaDeRock.Models;
 
 namespace EscolaDeRock

@@ -9,7 +9,7 @@ namespace ParImpar
             int num;
             do
             {
-                Console.Write("Diga um número ou zero para terminar: ");
+                Console.Write("Informe um número: ");
                 num = int.Parse(Console.ReadLine());
 
                 if (num != 0)

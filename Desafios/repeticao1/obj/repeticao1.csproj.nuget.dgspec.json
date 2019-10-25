@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\37258681825\\Documents\\C-\\desafios\\repeticao1\\repeticao1.csproj": {}
+    "C:\\Users\\37258681825\\Documents\\C-\\Desafios\\repeticao1\\repeticao1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\37258681825\\Documents\\C-\\desafios\\repeticao1\\repeticao1.csproj": {
+    "C:\\Users\\37258681825\\Documents\\C-\\Desafios\\repeticao1\\repeticao1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\37258681825\\Documents\\C-\\desafios\\repeticao1\\repeticao1.csproj",
+        "projectUniqueName": "C:\\Users\\37258681825\\Documents\\C-\\Desafios\\repeticao1\\repeticao1.csproj",
         "projectName": "repeticao1",
-        "projectPath": "C:\\Users\\37258681825\\Documents\\C-\\desafios\\repeticao1\\repeticao1.csproj",
+        "projectPath": "C:\\Users\\37258681825\\Documents\\C-\\Desafios\\repeticao1\\repeticao1.csproj",
         "packagesPath": "C:\\Users\\37258681825\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\37258681825\\Documents\\C-\\desafios\\repeticao1\\obj\\",
+        "outputPath": "C:\\Users\\37258681825\\Documents\\C-\\Desafios\\repeticao1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+C:\Users\37258681825\Documents\C-\Desafios\façolor1\bin\Debug\netcoreapp2.2\façolor1.deps.json
+C:\Users\37258681825\Documents\C-\Desafios\façolor1\bin\Debug\netcoreapp2.2\façolor1.runtimeconfig.json
+C:\Users\37258681825\Documents\C-\Desafios\façolor1\bin\Debug\netcoreapp2.2\façolor1.runtimeconfig.dev.json
+C:\Users\37258681825\Documents\C-\Desafios\façolor1\bin\Debug\netcoreapp2.2\façolor1.dll
+C:\Users\37258681825\Documents\C-\Desafios\façolor1\bin\Debug\netcoreapp2.2\façolor1.pdb
+C:\Users\37258681825\Documents\C-\Desafios\façolor1\obj\Debug\netcoreapp2.2\façolor1.csprojAssemblyReference.cache
+C:\Users\37258681825\Documents\C-\Desafios\façolor1\obj\Debug\netcoreapp2.2\façolor1.csproj.CoreCompileInputs.cache
+C:\Users\37258681825\Documents\C-\Desafios\façolor1\obj\Debug\netcoreapp2.2\façolor1.AssemblyInfoInputs.cache
+C:\Users\37258681825\Documents\C-\Desafios\façolor1\obj\Debug\netcoreapp2.2\façolor1.AssemblyInfo.cs
+C:\Users\37258681825\Documents\C-\Desafios\façolor1\obj\Debug\netcoreapp2.2\façolor1.dll
+C:\Users\37258681825\Documents\C-\Desafios\façolor1\obj\Debug\netcoreapp2.2\façolor1.pdb

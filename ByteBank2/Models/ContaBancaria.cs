@@ -1,5 +1,6 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace ByteBank2.Models
 {
@@ -10,7 +11,6 @@ namespace ByteBank2.Models
         public int NumeroConta;
         public double Saldo;
 
-
         public ContaBancaria(int Agencia, int NumeroConta, string Titular)
         {
             this.Agencia = Agencia;
@@ -19,35 +19,28 @@ namespace ByteBank2.Models
             this.Saldo = 0.0;
         }
 
+        public abstract bool Saque(double Valor);
 
-        public abstract bool Saque (double valor) 
+        public bool Deposito(double Valor)
         {
-            if(valor >=0)
+            if (Valor >= 0)
             {
-            this.Saldo = valor;
-            return true;
-            }
-        }
-
-        public bool Deposito (double valor)
-        {
-            if (valor >=0)
-            {
-                this.Saldo += valor;
+                this.Saldo += Valor;
                 return true;
             }
             return false;
         }
 
-        public bool Transferencia (ContaBancaria destino, double valor)
-        
+        public bool Transferencia(ContaBancaria Destino, double Valor)
         {
-            if (this.Saque (valor))
+            if (this.Saque(Valor))
             {
-                destino.Deposito(valor);
+                Destino.Deposito(Valor);
                 return true;
+            } else
+            {
+                return false;
             }
-            return true;
         }
     }
 }

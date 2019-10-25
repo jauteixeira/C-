@@ -1,0 +1,11 @@
+C:\Users\37258681825\Documents\C-\Desafios\façolor2\obj\Debug\netcoreapp2.2\façolor2.csprojAssemblyReference.cache
+C:\Users\37258681825\Documents\C-\Desafios\façolor2\obj\Debug\netcoreapp2.2\façolor2.csproj.CoreCompileInputs.cache
+C:\Users\37258681825\Documents\C-\Desafios\façolor2\obj\Debug\netcoreapp2.2\façolor2.AssemblyInfoInputs.cache
+C:\Users\37258681825\Documents\C-\Desafios\façolor2\obj\Debug\netcoreapp2.2\façolor2.AssemblyInfo.cs
+C:\Users\37258681825\Documents\C-\Desafios\façolor2\bin\Debug\netcoreapp2.2\façolor2.deps.json
+C:\Users\37258681825\Documents\C-\Desafios\façolor2\bin\Debug\netcoreapp2.2\façolor2.runtimeconfig.json
+C:\Users\37258681825\Documents\C-\Desafios\façolor2\bin\Debug\netcoreapp2.2\façolor2.runtimeconfig.dev.json
+C:\Users\37258681825\Documents\C-\Desafios\façolor2\bin\Debug\netcoreapp2.2\façolor2.dll
+C:\Users\37258681825\Documents\C-\Desafios\façolor2\bin\Debug\netcoreapp2.2\façolor2.pdb
+C:\Users\37258681825\Documents\C-\Desafios\façolor2\obj\Debug\netcoreapp2.2\façolor2.dll
+C:\Users\37258681825\Documents\C-\Desafios\façolor2\obj\Debug\netcoreapp2.2\façolor2.pdb
