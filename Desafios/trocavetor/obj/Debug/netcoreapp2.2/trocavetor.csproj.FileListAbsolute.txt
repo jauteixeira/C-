@@ -1,0 +1,11 @@
+C:\Users\37258681825\Documents\C-\Desafios\trocavetor\bin\Debug\netcoreapp2.2\trocavetor.deps.json
+C:\Users\37258681825\Documents\C-\Desafios\trocavetor\bin\Debug\netcoreapp2.2\trocavetor.runtimeconfig.json
+C:\Users\37258681825\Documents\C-\Desafios\trocavetor\bin\Debug\netcoreapp2.2\trocavetor.runtimeconfig.dev.json
+C:\Users\37258681825\Documents\C-\Desafios\trocavetor\bin\Debug\netcoreapp2.2\trocavetor.dll
+C:\Users\37258681825\Documents\C-\Desafios\trocavetor\bin\Debug\netcoreapp2.2\trocavetor.pdb
+C:\Users\37258681825\Documents\C-\Desafios\trocavetor\obj\Debug\netcoreapp2.2\trocavetor.csprojAssemblyReference.cache
+C:\Users\37258681825\Documents\C-\Desafios\trocavetor\obj\Debug\netcoreapp2.2\trocavetor.csproj.CoreCompileInputs.cache
+C:\Users\37258681825\Documents\C-\Desafios\trocavetor\obj\Debug\netcoreapp2.2\trocavetor.AssemblyInfoInputs.cache
+C:\Users\37258681825\Documents\C-\Desafios\trocavetor\obj\Debug\netcoreapp2.2\trocavetor.AssemblyInfo.cs
+C:\Users\37258681825\Documents\C-\Desafios\trocavetor\obj\Debug\netcoreapp2.2\trocavetor.dll
+C:\Users\37258681825\Documents\C-\Desafios\trocavetor\obj\Debug\netcoreapp2.2\trocavetor.pdb

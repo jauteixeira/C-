@@ -32,6 +32,7 @@ namespace trianguloinverso
                         Console.WriteLine(final.ToString());
                     }
                 }
+                
                 else
                 {
                     System.Console.Clear();
