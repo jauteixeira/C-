@@ -2,10 +2,10 @@
 
 namespace teste
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
+   class Program
+   {
+      static void Main(string[] args)
+      {
             int val=15;  
             int i, j, k ;  
 
@@ -17,7 +17,7 @@ namespace teste
             Console.ReadLine();
 
 
-                 
+         
          for (i = 1; i <= val; i++)  
          {  
             for (j = 1; j <= val-i; j++)  
